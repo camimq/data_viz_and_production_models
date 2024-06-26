@@ -131,3 +131,41 @@ A construação da nossa análise de negócios proporciona uma abordagem estrutu
     - **Abordagem para tomar decisões informadas com base em análises de risco:** conforme Machado (2018), à partir da identificação e avaliação dos riscos, é possível desenvolver abordagens para lidar com eles de forma estratégica. Isso envolve a definição de ações de mitigação de riscos, como adoção de planos de contigência e a alocação de recursos adequados. Além disso, a análise de riscos permite que a organização avalie as possíveis consequências de cada alternativa, contribuindo para escolhas mais acertadas e alinhadas com os objetivos do negócio. Dessa forma, a análise de riscos se torna uma ferramenta essencial na tomada de decisões mais assertivas e na minimização de impactos negativos.
 
 ## Aula 2 - Ligação com bancos de dados
+
+- Existem diferentes tipos de bancos de dados, cada um com suas características e finalidades específica. Os **banco de dados relacionais**, baseados no modelo relacional proposto por Codd, são amplamente utilizados es estruturados em tabelas, com relações definidas entre elas por meio de chaves primárias e estrangeiras. Esse tipo de banco de dados oferece um **ambiente estável e confiável para o armazenamento de dados estruturados**, permitindo consultas flexíveis por meio do SQL.
+
+Por outro lado, temos os bancos de dados NoSQL (não apenas SQL), que surgiram como uma alternativa aos banco de dados relacionais, **especialmente para lidar com grandes volumes de dados não estruturados ou semi-estruturados**. Os bancos de dados NoSQL utilizam diferentes modelos de armazenamento, como chave-valor, documentos, colunas ou graos, permitindo maior escalabilidade e flexibilidade para lidar com dados não convencionais.
+
+### Fundamentos de SQL - Structured Query Language
+
+O SQL é uma linguagem de programação utilizada para gerenciar bancos de dados relacionais.
+
+A linguagem SQL é dividida em várias categorias:
+
+- **DDL (_Data Definition Language_)**: os comando DDL são utilizados para criar e modificar a estrutura do banco de dados.
+
+- **DML (_Data Manipulation Language_)**: são empregados para manipular os dados dentro da tabela.
+
+- **DQL (_Data Query Language_)**: como `SELECT`, permitem realizar consultas para obter informações específicas do banco de dados.
+
+No contexto do Data Analytics, é comum que as consultas SQL sejam combinadas com outras técnicas, como visualização de dados e análise estatística. Após recuperar os dados relevantes por meio das consultas SQL, é possível criar gráficos, _dashboards_ e relatórios para apresentar os resultados de forma clara e concisa.
+
+### Banco de Dados NoSQL - _Not Only SQL_
+
+Os bancos de dados NoSQL surgiram como uma alternativa aos tradicionais bancos de dados relacionais, buscando atender demandas específicas de aplicações modernas, escalabilidade horizontal e flexibilidade no armazenamento e recuperação de ados.
+
+Diferentemente dos bancos de dados relacionais, os bancos de dados NoSQL não utilizam uma estrutura rígida de tabelas com esquemas predefinidos. Em vez disso, eles adotam um modelo de dados flexível, permitindo armazenar dados de forma não estruturada, semiestruturada ou poliestruturada. Isso permite lidar com a variedade crescente de dados gerados pelas aplicações atuais, como documentos, grafos, colunas e pares chave-valor.
+
+**Um dos principais benefícios dos bancos de dados NoSQL é a sua capacidade de eescalar horizontalmente**, distribuindo os dados em vários servidores e permitindo que sejam adicionados mais servidores conforme a demanda aumenta. Essa escalabilidade possibilita lidar com grandes volumes de dados e alta carga de acesso, tornando-os ideias para aplicações web e móveis que exigem respostas rápidas e escalabilidade sob demanda.
+
+Outra característica dos bancos de dados NoSQL, é a sua flexibilidade na modelagem de dados. Como não possuem um esquema fixo, podem ser facilmente adaptados para atender às necessidade específicas de cada aplicação. Isso facilita a evolução e alteração dos dados, sem a necessidade de modificar toda a estrutura do banco de dados.
+
+### Modelagem de dados
+
+A modelagem de dados desempenha um papel fundamental na área de Data Analytics, pos permis estruturação e organização dos dados, facilitando sua análise e extração de _insights_ valiosos. Trata-se de um processo que envolve a definição de entidades, atributos e relacionamentos, resultando em uma representação lógica dos dados que reflete a realidade do domínio em questão.
+
+Um dos **principais modelos de dados utilizados em Data Analytics é o modelo dimensional**. Esse modelo é especialmente adequado para análise de dados, pois **representa as informações em dimensões que são relevantes para a tomada de decisões**. Nesse modelo, os dados são organizados em torno de fatos e dimensões, permitindo que sejam realizadas análises de forma rápida e eficiente.
+
+## Resumo | Aula 2
+
+Nessa aula sobre ligações com Banco de Dados, vimos que os bancos de dados são essenciais para armazenar e organizar as informações que serão analisadas. Podemos optar pelos bancos de dados relacionais, com sua estrutura tabelada e uso de chaves, ou pelos bancos de dados NoSQL, que são mais flexíveis e permitem diferentes formatos de dados. A linguagem DQL é a chave para fazer consultas e obter as informações desejadas. Além disso, a segurança e privacidade dos dados são fundamentais, garantindo que as informações estejam protegidas e em conformidade com as regulamentações, como a LGPD.
