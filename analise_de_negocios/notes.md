@@ -166,6 +166,16 @@ A modelagem de dados desempenha um papel fundamental na área de Data Analytics,
 
 Um dos **principais modelos de dados utilizados em Data Analytics é o modelo dimensional**. Esse modelo é especialmente adequado para análise de dados, pois **representa as informações em dimensões que são relevantes para a tomada de decisões**. Nesse modelo, os dados são organizados em torno de fatos e dimensões, permitindo que sejam realizadas análises de forma rápida e eficiente.
 
-## Resumo | Aula 2
+### Resumo | Aula 2
 
 Nessa aula sobre ligações com Banco de Dados, vimos que os bancos de dados são essenciais para armazenar e organizar as informações que serão analisadas. Podemos optar pelos bancos de dados relacionais, com sua estrutura tabelada e uso de chaves, ou pelos bancos de dados NoSQL, que são mais flexíveis e permitem diferentes formatos de dados. A linguagem DQL é a chave para fazer consultas e obter as informações desejadas. Além disso, a segurança e privacidade dos dados são fundamentais, garantindo que as informações estejam protegidas e em conformidade com as regulamentações, como a LGPD.
+
+## Aula 3 - Geração de Insights
+
+### Ferramentas e técnicas para geração de _insights_
+
+- **Análise Estatística**: é uma técnica fundamental para a geração de _insights_. El envolve a aplicação de métodos estatísticos para analisar os dados, identificar correlações, testar hipóteses e extrair conclusões significativas. Técnicas estatísticas como **regressão linear, análise de variância (ANOVA), séries temporais e teste de hipóteses** são amplamente utilizadas para explorar os dados e obter _insights_ valiosos e robustos.
+
+- **Mineração de dados:** técnica que envolve a descoberta automática de padrões e relações ocultas nos dados. Algoritmos de mineração de dados, como árvores de decisão, agrupamento, regras de associação e redes neurais, são aplicados para identificar padrões, tendências e _insights_ valiosos. Essa tecnicas ajudam a revelar informações que podem ser usadas para tomar decisões estratégicas e direcionar as ações de negócios.
+
+- **Visualização de dados:** a visualização de dados é uma ferramenta poderosa para a geração de _insights_. Ela permite representar os dados de forma visual e interativa, facilitando a compreensão e identificação de padrões complexos. Gráficos, mapas, diagramas e _dashboards_ interativos são algumas das técnicas de visualização de dados que ajudam a explorar e comunicar _insights_ de maneira eficaz.
