@@ -179,3 +179,25 @@ Nessa aula sobre ligações com Banco de Dados, vimos que os bancos de dados sã
 - **Mineração de dados:** técnica que envolve a descoberta automática de padrões e relações ocultas nos dados. Algoritmos de mineração de dados, como árvores de decisão, agrupamento, regras de associação e redes neurais, são aplicados para identificar padrões, tendências e _insights_ valiosos. Essa tecnicas ajudam a revelar informações que podem ser usadas para tomar decisões estratégicas e direcionar as ações de negócios.
 
 - **Visualização de dados:** a visualização de dados é uma ferramenta poderosa para a geração de _insights_. Ela permite representar os dados de forma visual e interativa, facilitando a compreensão e identificação de padrões complexos. Gráficos, mapas, diagramas e _dashboards_ interativos são algumas das técnicas de visualização de dados que ajudam a explorar e comunicar _insights_ de maneira eficaz.
+
+- **_Text minin_**: o _text mining_, ou mineração de texto, é uma técnica utilizada quando se lida com grandes volumes de dados não estruturados, como documentos, e-mails, redes sociais e outras fontes de texto. Ele envolve o processamento de linguagem natural e a aplicação de algoritmos para extrair informações relevantes, identificar sentimentos, temas e entidades mencionadas no texto. Essa técnica ajuda a descobrir _insights_ significativos em dados textuais, contribuindo para uma análise abrangente.
+
+- **_Machine Learning_**: _machine learning_, ou aprendizado de máquina, é uma abordagem que permite que os sistemas aprendam e melhorem automaticamente com base nos dados. Algoritmos de _machine learning_ são aplicados para identificar padrões complexos e fazer previsões com base nos dados históricos. Essa técnica é amplamente utilizada para geração de _insights_ preditivos, como previsão de demanda, recomendações personalizadas e detecção de anomalias.
+
+### Mineração de dados
+
+Pontos importantes principalmente na nálise de negócio, que podem ajudar ainda mais a ter _insights_, conforme as entradas para o planejamento e monitoramento da análise:
+
+- **Necessidade do negócio**: a estratégia de análise de negócios é influenciada pela problemática ou oportunidade enfrentada pela organização. É importante considerar os riscos envolvidos, o prazo para atender à necessidade e o nível de compreensão da demanda. Esses fatores ajudarão a determinar se uma abordagem focada no planejamento ou na mudança é mais adequada.
+
+- **Opinião de especialistas**: a opinião de especialistas é fundamental para definir a abordagem ideal na análise de negócios. Esses conhecimentos podem ser fornecidos por diversas fontes, como as partes interessadas envolvidas na iniciativa, Centros de Competência Oganizacional, consultores ou associações e grupos do setor. Experiências anteriores da pessoa analista de negócios e de outras partes interessadas também devem ser consideradas ao selecionar ou adaptar uma abordagem.
+
+- **Ativos de processos organizacionais**: inclui os elementos das abordagens de análise de negócios já existentes e utilizadas pela organização. Os ativos de processos organizacionais podem ser úteis na definição da estratégia de análise negócios e incluem metodologias para processo de mudança ou desenvolvimento de _software_, ferramentas e técnicas conhecidas e compreendidas pelas partes interessadas, padrões de governança corporativa e modelos de entregas. Além desses padrões gerais, a organização pode ter diretrizes particulares para adaptar os processos de acordo com uma iniciativa específica.
+
+### Compreensão dos dados
+
+Os dados são a matéria-prima a partir da qual a solução para um problema de negócios será construída. No entanto, é importante reconhecer que eles podem apresentar limitações e nem sempre correspondem perfeitamente ao problema em questão. Muitas vezzes, os dados históricos são coletados para fins não relacionados ao problema atual do negócio ou sem um propósito explícito. É essencial compreender os pontos fortes e as limitações dos dados disponíveis para garantir uma abordadem adequada na busca pela solução.
+
+### Resumo | Aula 3
+
+Aprendizado sobre ferramenta e técnicas para geração de _insights_, como a mineração de dados, compreendendo a importância de entender os dados em seu contexto. A comunicação eficaz de _insights_ foi destacada, enfatizando a necessidade de adaptar a mensagem ao público-alvo e estruturar as informações de forma clara, destacando os principas _insights_ para influenciar decisões de negócios.
