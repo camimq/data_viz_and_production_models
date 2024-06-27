@@ -201,3 +201,5 @@ Os dados são a matéria-prima a partir da qual a solução para um problema de 
 ### Resumo | Aula 3
 
 Aprendizado sobre ferramenta e técnicas para geração de _insights_, como a mineração de dados, compreendendo a importância de entender os dados em seu contexto. A comunicação eficaz de _insights_ foi destacada, enfatizando a necessidade de adaptar a mensagem ao público-alvo e estruturar as informações de forma clara, destacando os principas _insights_ para influenciar decisões de negócios.
+
+## Aula 4 - Técnicas de visualização
